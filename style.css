@@ -1,0 +1,128 @@
+
+.navlist li {
+    display: flex;
+    list-style: none;
+    margin-right: 40px;
+}
+h2 {
+    font-family: Ubuntu;
+    font-weight: bold;
+    font-size: 30px;
+}
+.logo {
+    margin-left: 40px;
+}
+.navlist {
+    display: flex;
+}
+.navleft {
+    display: flex;
+
+}
+.navright {
+    justify-content: flex-end;
+}
+.main {
+    display: flex;
+    justify-content: space-between;
+}
+.navi {
+    display: flex;
+    padding-right: 40px;
+    padding-top: 80px;
+}
+h2, h3 {
+    font-size: 66px;
+}
+#menu {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+    background-image: url('images/R.jpg');
+}
+.ios {
+    width: 28px;
+}
+#detail {
+    display:flex;
+    justify-content: space-evenly;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+h4 {
+    font-size: 27px;
+}
+/* .lady{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+} */
+#carouselExampleIndicators {
+    background-image: url('images/how-to-create-cool-website-backgrounds-the-ultimate-guide.png');
+    background-size: 100%;
+    justify-content: center;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.carousel-item img {
+    width: 10%;
+    border-radius: 40%;
+    margin: 20px;
+
+}
+h5{
+    font-size: 50px;
+    text-align: center;
+}
+.sponsor {
+    display: flex;
+    justify-content: center;
+}
+.sponsor img{
+    width: 10%;
+    margin: 40px;
+}
+.product {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+#plans {
+    text-align: center;
+}
+#plan{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.thead-dark {
+    text-align: center;
+}
+.det {
+    text-align: center;
+}
+.download {
+    text-align: center;
+    padding-top: 40px;
+}
+#find {
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-image: url(images/Zz1kNmFkYmFmNzhlNGIxMWViYTU1ZDFmYjg0ZWI5MTc4Zg==.jpg);
+}
+#support {
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+#support img {
+    width:80px;
+    margin-right: 80px;
+}
+#footer {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
